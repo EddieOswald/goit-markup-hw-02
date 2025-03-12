@@ -33,6 +33,16 @@ body {
 .header-adress {
   font-style: normal;
 }
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
 .header-list-adr {
   font-weight: 400;
   font-size: 16px;
