@@ -76,16 +76,16 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background: #4d5ae5;
-}
-
-.footer {
-  background-color: #2e2f42;
+  cursor: pointer;
 }
 
 .section-one-button:hover,
 .section-one-button:focus {
-  cursor: pointer;
-  color: #404bbf;
+  background-color: #404bbf;
+}
+
+.footer {
+  background-color: #2e2f42;
 }
 
 .footer-text {
