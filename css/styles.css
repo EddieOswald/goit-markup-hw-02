@@ -24,11 +24,24 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-list-adr {
+
+.header-list-nav:hover,
+.header-list-nav:focus {
+  color: #404bbf;
+}
+
+.header-adress {
   font-style: normal;
+}
+.header-list-adr {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.header-list-adr:hover,
+.header-list-adr:focus {
+  color: #404bbf;
 }
